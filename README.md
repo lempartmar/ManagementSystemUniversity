@@ -2,7 +2,7 @@
 
 ## Opis
 
-Stworzony w ramach zajęć w ramach przedmiotu Bazy Danych w Microsoft SQL Management Studio. Praca dotyczyła systemu zarządzania pracami dyplomowymi. Po uprzednim kontakcie prześlę pełny raport z projektu. 
+System stworzony w ramach zajęć w ramach przedmiotu Bazy Danych w Microsoft SQL Management Studio. Praca dotyczyła systemu zarządzania pracami dyplomowymi. Po uprzednim kontakcie prześlę pełny raport z projektu. 
 
 ## W ramach pracy stworzono schemat bazy na poziomie konceptualnym
 
