@@ -2,7 +2,7 @@
 
 ## Description
 
-System in question was developed as a part of the Databases in Microsoft SQL Management Studio course. The work was oriented towards creating a dissertation management system. After prior arrangements, the author may disclose a comprehensive project report. 
+System was developed as a part of the Databases in Microsoft SQL Management Studio course. The work was oriented towards creating a dissertation management system. After prior arrangements, the author may disclose a comprehensive project report. 
 
 ## Within the framework of the project, a scheme of the database at the conceptual level was developed 
 
